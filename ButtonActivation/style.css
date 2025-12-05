@@ -1,0 +1,41 @@
+.btn {
+  background-color: #4caf50;
+  border: none;
+  color: white;
+  padding: 14px 28px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  opacity: 0.6;
+  transition: 0.3s;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+  border-radius: 16px;
+}
+button.active {
+  background-color: #007bff;
+}
+.btn:hover {
+  opacity: 1;
+}
+.section {
+  height: 80vh;
+  border: 1px solid red;
+  display: none;
+}
+section.active {
+  display: block;
+}
+#section-1 {
+  background-color: aqua;
+  opacity: 0.5;
+}
+#section-2 {
+  background-color: rgb(255, 0, 212);
+  opacity: 0.5;
+}
+#section-3 {
+  background-color: rgb(149, 161, 35);
+  opacity: 0.5;
+}

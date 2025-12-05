@@ -1,0 +1,12 @@
+#wraper{
+    border: 1px solid  orange;
+    padding: 50px;
+}
+#header{
+    border: 1px solid  aqua;
+    padding: 20px;
+}
+
+#logo{
+    border: 2px solid gray;
+}
