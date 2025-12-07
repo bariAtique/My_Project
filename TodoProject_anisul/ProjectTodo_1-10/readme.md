@@ -1,0 +1,1 @@
+1. This is practice Java script 10 times to clear ideas
