@@ -146,6 +146,8 @@ background-color: #e74c3c;
 }
 ```
 
+<mark>Use of Pseudo Element</mark>
+
 ```
 .center-point {
 background-color: #e74c3c;
